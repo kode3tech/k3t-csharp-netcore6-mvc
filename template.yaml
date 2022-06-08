@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-csharp-netcore6-mvc
   title: C# Dotnet Core 6 Web Application
-  description: 
+  description: Cria uma aplicação web usando c# (C Sharp) e Dotnet Core framework 6
   tags:
     - cshap
     - events
     - netcore 6
     - web
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
